@@ -1,14 +1,14 @@
 # Plano de Teste
 
-**Banco digital**
+**DataPref**
 
-*versão 3.0*
+*versão 2.0*
 
 ## Histórico das alterações
 
    Data    | Versão |    Descrição   | Autor(a)
 -----------|--------|----------------|------------------------------
-05/06/2023 |  3.0   | Release incial | Lincoln Martins de Oliveira
+05/06/2023 |  2.0   | Release incial | Gabriel Barbosa de Castro Vital
 
 
 ## 1 - Introdução
